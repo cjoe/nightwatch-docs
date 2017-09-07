@@ -4,7 +4,7 @@ The most common WebDriver implementation is the Selenium Server. This allows you
 
 #### Selenium Server
 
-Selenium Server is a Java application which Nightwatch uses to connect to the various browsers. It runs separately on the machine with the browser you want to test. You will need to have the [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed, minimum required version is 7. You can check this by running `java -version` from the command line.
+Selenium Server is a Java application which Nightwatch uses to connect to the various browsers. It runs separately on the machine with the browser you want to test. You will need to have the [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/index.html) insttalled, minimum required version is 7. You can check this by running `java -version` from the command line.
 
 #### Download Selenium
 
